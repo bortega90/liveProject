@@ -9,8 +9,9 @@ Employing advanced user interface design principles, I orchestrated a dynamic fe
 
 <h3>Collapse Accordion Menu</h3>
 I adeptly harnessed the power of Bootstrap to engineer an accordion menu, distinguished by its seamless functionality that elegantly collapses and expands with fluidity. Leveraging Bootstrap's robust framework, I orchestrated a user-centric design that seamlessly harmonizes intuitive navigation with a visually captivating interface, enhancing the overall user experience.
+
 <h3>Sorting</h3>
-I used JavaScript to sort through inventory based on items that are damaged or not, a-z/z-a, and back to original state where newest entries are top of table.
+I employed JavaScript with finesse to implement a sophisticated inventory sorting mechanism, facilitating seamless categorization based on item condition, alphabetical order (both ascending and descending), and chronological arrangement. Through meticulous scripting, I ensured a fluid user experience, enabling effortless navigation and organization of inventory data. This dynamic functionality empowers users to effortlessly toggle between sorting criteria, optimizing efficiency and enhancing usability within the inventory management system.
 
 <h3>Authorized Pages</h3>
 In order to ensure secure and seamless management of inventory, I've implemented a robust authentication system. Users are required to sign in with credentials before making any changes to the inventory, whether it's creating a new item, editing an existing one, or deleting an item. Those who are not signed in are gracefully directed to a view page indicating unauthorized access. This was achieved by integrating a custom model inheriting the AuthorizedAttribute within the ASP.NET Framework. Subsequently, I've strategically placed the [HistoryManagerAuthorized] model atop the create, edit, and delete methods within the controller, ensuring adherence to stringent security protocols while maintaining a user-friendly experience
