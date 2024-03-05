@@ -13,7 +13,7 @@ I used JavaScript to sort through inventory based on items that are damaged or n
 <h3>Authorized Pages</h3>
 I made the user having to do sign-in credentials to make any changes to inventory such as, create new item, edit item, or delete item. Any user that is not signed in are met with a view page that says unauthorized.
 
-<Seed()>
+<h3>Seed()</h3>
 I used the seed method to add an authorized user in the database to have permission to make any changes to data and set a User Name, Email and Password.
 
 
