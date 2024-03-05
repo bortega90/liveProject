@@ -1,5 +1,5 @@
 # liveProject
-I had the opportunity to do a mock Azure Dev Ops project for two weeks. I posted screen recordings of the finished pages and posted some screenshots of my code.
+I had the opportunity to do a Azure Dev Ops project for two weeks. I posted screen recordings of the finished pages and posted some screenshots of my code.
 
 <h3>Scaffold create/edit/delete Pages</h3>
 Scaffold Razor Pages in ASP.NET Core 
