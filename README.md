@@ -4,6 +4,9 @@ I got the opportunity to do a mock Azure Dev Ops project for two weeks.
 <h3>Scaffold create/edit/delete Pages</h3>
 Scaffold Razor Pages in ASP.NET Core 
 
+<h3>Label Change</h3>
+On the Create and Edit page, when "Damages" checkbox is checked, the lable changes from "Notes" to "Damages Incurred".
+
 <h3>Collapse Accordion Menu</h3>
 I used bootstrap to create a accordion menu that collapse open and close
 
